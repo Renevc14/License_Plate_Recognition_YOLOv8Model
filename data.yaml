@@ -1,0 +1,8 @@
+path: /home/viva/Escritorio/Yolo/License Plate Recognition.v4-resized640_aug3x-accurate.yolov8
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['License_Plate']
+
